@@ -8,7 +8,7 @@ Apasionado por transformar datos en decisiones estratégicas. Cuento con experie
 * **Visualización y Análisis:** Power BI, Tableau, Excel
 * **Enfoque:** Limpieza de datos, modelado, reportes comerciales y gestión de proyectos.
 
-🚀 **Proyectos Destacados (Semana 2 - Career Accelerator):**
+🚀 **Proyectos Destacados :**
 * 👉 **[Portafolio de Análisis de Datos](https://github.com/jesusantonioguzmanmx-sketch/Portafolio-Data-Analysis):** Repositorio principal que incluye mis proyectos documentados:
   * 🛒 **MercadoLibre:** Análisis de negocio con SQL (problema, metodología, hallazgos y recomendaciones).
   * 🚲 **Movilidad Urbana:** Proyecto en Python enfocado en limpieza y visualización de datos.
