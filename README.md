@@ -1,16 +1,18 @@
-## Hi there 👋
+### ¡Hola! Soy Jesus Antonio Guzman Salazar 👋
+#### 📊 Analista de Datos
 
-<!--
-**jesusantonioguzmanmx-sketch/jesusantonioguzmanmx-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado por transformar datos en decisiones estratégicas. Cuento con experiencia analítica y de negocio, combinando habilidades técnicas para resolver problemas complejos y presentar hallazgos claros.
 
-Here are some ideas to get you started:
+🛠️ **Habilidades y Tecnologías:**
+* **Lenguajes y Consultas:** SQL, Python
+* **Visualización y Análisis:** Power BI, Tableau, Excel
+* **Enfoque:** Limpieza de datos, modelado, reportes comerciales y gestión de proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyectos Destacados (Semana 2 - Career Accelerator):**
+* 👉 **[Portafolio de Análisis de Datos](https://github.com/jesusantonioguzmanmx-sketch/Portafolio-Data-Analysis):** Repositorio principal que incluye mis proyectos documentados:
+  * 🛒 **MercadoLibre:** Análisis de negocio con SQL (problema, metodología, hallazgos y recomendaciones).
+  * 🚲 **Movilidad Urbana:** Proyecto en Python enfocado en limpieza y visualización de datos.
+  * 🍔 **RappiPlus:** Análisis integral con métricas de *revenue*, *profit* y categorías.
+
+📫 **Contacto:**
+¡Conectemos en [LinkedIn](https://www.linkedin.com/)!
